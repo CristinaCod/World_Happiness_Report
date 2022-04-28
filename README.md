@@ -6,7 +6,7 @@ World Happiness Report
 
 **Reason for topic selection:**
 
-We are interested in the trends of happiness across the globe as mental health is hot topic in today's society and we wanted to examine certain factors that may have a positive or negative impact on the mental wellbeing of individuals around the world. 
+We are interested in the trends of happiness across the globe as mental health is hot topic in today's society and we wanted to examine certain factors that may have a positive or negative impact on the mental wellbeing of individuals around the world. The recent pandemic has no doubt taken a toll on the mental health of people across the globe and we want to examine how the specific factors from the Gallup World Poll changed between the years of 2019 and 2021. 
 
 **Description of the source of data:** 
 
@@ -16,8 +16,8 @@ Kaggle dataset published by SUSTAINABLE DEVELOPMENT SOLUTIONS NETWORK. The conte
 
 **Questions we hope to answer with the data:**
 
--- Happiest country in the world
+-- Happiest country in the world for 2019 and 2021
 
--- How happiness ratings have changed over the span of a year throughout 5 countries: Unites States, Finaland, Singapore, Ghana, and Colombia
+-- How happiness ratings have changed over between the years of 2019 and 2021 throughout 5 countries: Unites States, Finaland, Singapore, Ghana, and Colombia
 
 --Which factor has the greatest impact on happiness score
