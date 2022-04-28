@@ -6,7 +6,7 @@ World Happiness Report
 
 **Reason for topic selection:**
 
-We are interested in the trends of happiness across the globe as mental health is hot topic in today's society and we wanted to examine certain factors that may have a positive or negative impact on the mental wellbeing of individuals around the world. The recent pandemic has no doubt taken a toll on the mental health of people across the globe and we want to examine how the specific factors from the Gallup World Poll changed between the years of 2019 and 2021. 
+We are interested in the trends of happiness across the globe as mental health is hot topic in today's society and we wanted to examine certain factors that may have a positive or negative impact on the mental wellbeing of individuals around the world. The recent pandemic has no doubt taken a toll on the mental health of people across the globe and we want to examine how the specific factors from the Gallup World Poll effect happiness ratings between the years of 2019 and 2021. 
 
 **Description of the source of data:** 
 
