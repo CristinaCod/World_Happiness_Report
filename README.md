@@ -1,5 +1,4 @@
 # World_Happiness_Report
-test
 
 **Selected topic:**
 
