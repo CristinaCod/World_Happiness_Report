@@ -21,3 +21,7 @@ Kaggle dataset published by SUSTAINABLE DEVELOPMENT SOLUTIONS NETWORK. The conte
 -- How happiness ratings have changed over between the years of 2019 and 2021 throughout 5 countries: Unites States, Finaland, Singapore, Ghana, and Colombia
 
 --Which factor has the greatest impact on happiness score
+
+
+**Communication Protocols:**
+Communication is on an add needed basis over Slack. Role assignments and expectations are worked out during class and the duties of each role are worked on as a team. We have also utilized office hours and the support of TA's for any questions that arise. If one team member works on a deliverable outside of class time they communicate that and notify the others when they are done over Slack. 
