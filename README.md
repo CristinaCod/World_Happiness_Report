@@ -27,7 +27,7 @@ Kaggle dataset published by SUSTAINABLE DEVELOPMENT SOLUTIONS NETWORK. The conte
 https://docs.google.com/presentation/d/1-BdfcxRAkmvJPGpVYI0r6Mw4PDE5yMYF05Ny2Vr53Ys/edit?usp=sharing 
 
 **Outline**
-1. Preliminary Exporation
+1. Preliminary Exploration
 
   a. Locate a dataset
   
