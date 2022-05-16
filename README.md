@@ -63,5 +63,4 @@ https://docs.google.com/presentation/d/1-BdfcxRAkmvJPGpVYI0r6Mw4PDE5yMYF05Ny2Vr5
   
   c. Explain what we can infer from this knowledge
 
-**Communication Protocols:**
-Communication is on an as needed basis over Slack. Role assignments and expectations are worked out during class and the duties of each role are worked on as a team. We have also utilized office hours and the support of TA's for any questions that arise. If one team member works on a deliverable outside of class time they communicate that and notify the others when they are done over Slack. 
+
