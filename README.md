@@ -30,19 +30,19 @@ Kaggle dataset published by SUSTAINABLE DEVELOPMENT SOLUTIONS NETWORK. The conte
 
 ## Outline
 
-1. Preliminary Exploration
+**1. Preliminary Exploration**
 
   * Locate a dataset
   * Determine what questions we'd answer with said dataset
 
-2. Data Cleaning
+**2. Data Cleaning**
 
   * Download data sets
     * Clean them up-- drop any unnecessary values, rename columns, etc.
   * Run code to answers our questions
   * Export clean datasets to new CSV files
   
-3. Machine Learning
+**3. Machine Learning**
   
   * Chose what model works best with our dataset and what we're trying to answer
     * Linear Regression 
@@ -52,7 +52,7 @@ Kaggle dataset published by SUSTAINABLE DEVELOPMENT SOLUTIONS NETWORK. The conte
   * Use said clean datasets in supervised model
   * Test and train the data to make predictions
   
-4. Database Integration
+**4. Database Integration**
 
   * Utilizing Postgres/SQL
   * Use same database and tables built for Machine Learning Model as well as additional tables built for new population data
@@ -63,7 +63,7 @@ Kaggle dataset published by SUSTAINABLE DEVELOPMENT SOLUTIONS NETWORK. The conte
       * One table for high/low populations in 2019 and one for high/low populations in 2021
   * Perform statistical summary 
   
-5. Tableau 
+**5. Tableau**
 
   * Created a dashboard
   * Create visualizations for findings
