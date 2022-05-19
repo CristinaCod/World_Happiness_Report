@@ -21,11 +21,11 @@ Kaggle dataset published by SUSTAINABLE DEVELOPMENT SOLUTIONS NETWORK. The conte
 
 **Questions we hope to answer with the data:**
 
--- Happiest country in the world for 2019 and 2021
+* Happiest country in the world for 2019 and 2021
 
--- How happiness ratings have changed over between the years of 2019 and 2021 throughout 5 countries: Unites States, Finland, Singapore, Ghana, and Colombia
+* How happiness ratings have changed over between the years of 2019 and 2021 throughout 5 countries: Unites States, Finland, Singapore, Ghana, and Colombia
 
---Which factor has the greatest impact on happiness score
+* Which factor has the greatest impact on happiness score
 
 
 ## Outline
