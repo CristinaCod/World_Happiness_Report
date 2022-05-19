@@ -61,7 +61,7 @@ Kaggle dataset published by SUSTAINABLE DEVELOPMENT SOLUTIONS NETWORK. The conte
     * Divide counties from both years into high and low populations
     * Use inner join to make two tables out of the previous four
       * One table for high/low populations in 2019 and one for high/low populations in 2021
-    * Perform statistical summary 
+  * Perform statistical summary 
   
 5. Tableau 
 
