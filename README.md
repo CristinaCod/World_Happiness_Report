@@ -32,39 +32,39 @@ Kaggle dataset published by SUSTAINABLE DEVELOPMENT SOLUTIONS NETWORK. The conte
 
 1. Preliminary Exploration
 
-   -Locate a dataset
-  
-  b. Determine what questions to answer with dataset
+   * Locate a dataset
+   * Determine what questions we'd answer with said dataset
 
 2. Data Cleaning
 
-  a. Download data sets
-  
-  b. Clean them up-- drop any unnecessary values
-  
-  c. Run code to answers our questions
-  
-  d. Export clean datasets
+  * Download data sets
+  * Clean them up-- drop any unnecessary values, rename columns, etc.
+  * Run code to answers our questions
+  * Export clean datasets to new CSV files
   
 3. Machine Learning
   
-  a. Use clean datasets in a liner regression
-  
-  b. Test and train the data to make predictions
+  * Chose what model works best with our dataset and what we're trying to answer
+  * Load clean datasets into Postgres 
+  * Link database in Python file so it scrapes info into CSV we can work with
+  * Use said clean datasets in a liner regression
+  * Test and train the data to make predictions
   
 4. Database Integration
 
-  a. Using SQL
+  * Using Postgres/SQL
+  * Use same database and tables built for Machine Learning Model as well as additional tables built
+  * Connected sql server to jupyter notebook 
+  * Also wanted to determine the effects of population size on happiness factors
   
-  b. Determine effects of population size on happiness factors
-  
-5. Tableau Dashboard
+5. Tableau 
 
-  a. Create visualizations for findings
-  
-  b. Describe said findings
-  
-  c. Explain what we can infer from this knowledge
+  * Created a dashboard
+  * Create visualizations for findings
+  * Incorporate images from data cleaning and machine learning model
+  * Build a cohesive story with everything from previous steps
+  * Describe findings
+  * Explain what we can infer from this knowledge
 
 
 ## Presentation
