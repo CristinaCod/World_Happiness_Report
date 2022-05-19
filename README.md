@@ -32,30 +32,35 @@ Kaggle dataset published by SUSTAINABLE DEVELOPMENT SOLUTIONS NETWORK. The conte
 
 1. Preliminary Exploration
 
-   * Locate a dataset
-   * Determine what questions we'd answer with said dataset
+  * Locate a dataset
+  * Determine what questions we'd answer with said dataset
 
 2. Data Cleaning
 
   * Download data sets
-  * Clean them up-- drop any unnecessary values, rename columns, etc.
+    * Clean them up-- drop any unnecessary values, rename columns, etc.
   * Run code to answers our questions
   * Export clean datasets to new CSV files
   
 3. Machine Learning
   
   * Chose what model works best with our dataset and what we're trying to answer
+    * Linear Regression 
   * Load clean datasets into Postgres 
+    * Into previously created database and tables
   * Link database in Python file so it scrapes info into CSV we can work with
-  * Use said clean datasets in a liner regression
+  * Use said clean datasets in supervised model
   * Test and train the data to make predictions
   
 4. Database Integration
 
-  * Using Postgres/SQL
-  * Use same database and tables built for Machine Learning Model as well as additional tables built
+  * Utilizing Postgres/SQL
+  * Use same database and tables built for Machine Learning Model as well as additional tables built for new population data
   * Connected sql server to jupyter notebook 
   * Also wanted to determine the effects of population size on happiness factors
+    * Divide counties from both years into high and low populations
+    * Use inner join to make two tables out of the previous four
+      * One table for high/low populations in 2019 and one for high/low populations in 2021
   
 5. Tableau 
 
