@@ -1,4 +1,5 @@
 # World Happiness Report
+![happy.png](https://github.com/CristinaCod/World_Happiness_Report/blob/main/world-1302959_1920.jpeg)
 
 ## Background
 **Selected topic:**
