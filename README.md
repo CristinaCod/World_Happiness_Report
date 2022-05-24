@@ -98,8 +98,32 @@ In 2019 the unhappiest country was South Sudan and in 2021 was Afghanistan. Both
 GDP per Capita was the most influential factor on happiness in 2019 and we saw the same for 2021. These results were followed by Social Support.
 
 ### Machine Learning
+Using our Linear Regression model, the below graphs represent our accuracy scores:
+
+2019:
+* Test- 60%
+* Train- 82%
+
+2021:
+* Test- 62%
+* Train- 78%
+
+![residual.png](https://github.com/CristinaCod/World_Happiness_Report/blob/main/Graphs/residual_plots.png)
+
+Also attempted to use the RandomForestClassifier Model on our dataset.
+
+Below are the confusion matrices for 2019 followed by 2021:
+
+![2019cfm.png](https://github.com/CristinaCod/World_Happiness_Report/blob/main/Graphs/2019cfm.png)
+
+![2021cm.png](https://github.com/CristinaCod/World_Happiness_Report/blob/main/Graphs/2021cfm.png)
+
+Yielded over 90% accuracy which is very good.
 
 ### Database Integration
+
+**ERD**
+(insert image here)
 
 
 ## Presentation
