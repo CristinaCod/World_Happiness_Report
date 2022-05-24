@@ -77,19 +77,25 @@ Kaggle dataset published by SUSTAINABLE DEVELOPMENT SOLUTIONS NETWORK. The conte
 ## Analysis and Findings
 
 ### Data Cleaning
-2019 Happiest and Unhappiest Countries:
+**2019 Happiest and Unhappiest Countries:**
 
 ![happy2019](https://github.com/CristinaCod/World_Happiness_Report/blob/main/Graphs/2019_happy10.png)
 
 ![unhappy2019](https://github.com/CristinaCod/World_Happiness_Report/blob/main/Graphs/2019_unhappy10.png)
 
-2021 Happiest and Unhappiest Countries:
+**2021 Happiest and Unhappiest Countries:**
 
 ![2021both](https://github.com/CristinaCod/World_Happiness_Report/blob/main/Graphs/2021_happy_unhappy.png)
 
 Finland was the happiest country for both 2019 and 2021. Followed by Denmark. 
 
 In 2019 the unhappiest country was South Sudan and in 2021 was Afghanistan. Both of which fall under the Middle Eastern/Northern Africa region.
+
+**Most Influential Factor on Happiness:**
+
+![2019factor](https://github.com/CristinaCod/World_Happiness_Report/blob/main/Graphs/2019_factors_dist.png)
+
+GDP per Capita was the most influential factor on happiness in 2019 and we saw the same for 2021. These results were followed by Social Support.
 
 ### Machine Learning
 
