@@ -123,7 +123,7 @@ Yielded over 90% accuracy which is very good.
 ### Database Integration
 
 **ERD**
-(insert image here)
+![ERD.png](https://github.com/CristinaCod/World_Happiness_Report/blob/549ef6af920dadf60d9dad0825cd86ff090d7fe0/Resources/ERD.png)
 
 
 ## Presentation
