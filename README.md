@@ -124,7 +124,7 @@ Yielded over 90% accuracy which is very good.
 
 ## ERD
 
-![ERD.png](https://github.com/CristinaCod/World_Happiness_Report/blob/549ef6af920dadf60d9dad0825cd86ff090d7fe0/Resources/ERD.png)
+![ERD.png](https://github.com/CristinaCod/World_Happiness_Report/blob/41adcfafffb310ded45bf40f65348637d550af1b/Resources/ERDTable.png)
 
 ## Plot
 ![Scatterplot7.png](https://github.com/CristinaCod/World_Happiness_Report/blob/739ab55c7b9574612ad98125a27fed9433472ee0/UnsupervisedMLplots/Scatterplot7.png)
