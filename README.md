@@ -131,6 +131,18 @@ Yielded over 90% accuracy which is very good.
 
 From our findings Social Support is biggest contributing factors to the happiness score for both more populated and less populated countries. This is because the eigenvalues of Score and Social Support are the closest as seen in the PCA values. It is also concluded that populating does not affect the different factors of happiness because the factors closely related to the ladder score for both more populated and less populated countries are very similiar. 
 
+### Overall Happiness Ratings changes between the years of 2019 and 2021 in the US, Finland, Singapore, Ghana, and Colombia
+
+<img width="1372" alt="Screen Shot 2022-05-25 at 5 32 34 PM" src="https://user-images.githubusercontent.com/95304025/170382946-c626e993-c33b-4dcb-ae8b-66668cd30a00.png">
+<img width="1373" alt="Screen Shot 2022-05-25 at 5 32 23 PM" src="https://user-images.githubusercontent.com/95304025/170382953-44240ae7-785b-4380-8d97-7cf8a06dff88.png">
+<img width="1342" alt="Screen Shot 2022-05-25 at 5 32 01 PM" src="https://user-images.githubusercontent.com/95304025/170382978-3a7ba2ee-379a-47f3-86b7-4cdf5b283ad6.png">
+<img width="1325" alt="Screen Shot 2022-05-25 at 5 31 54 PM" src="https://user-images.githubusercontent.com/95304025/170382993-fe86d049-2b98-4a96-83da-b01adb2f2672.png">
+<img width="1381" alt="Screen Shot 2022-05-25 at 5 30 55 PM" src="https://user-images.githubusercontent.com/95304025/170382998-37e80ffc-e754-4ebb-a45b-8aa8f29b5e96.png">
+
+
+
+
+
 ## Presentation
 https://docs.google.com/presentation/d/1-BdfcxRAkmvJPGpVYI0r6Mw4PDE5yMYF05Ny2Vr53Ys/edit?usp=sharing 
 
