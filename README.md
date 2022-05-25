@@ -122,11 +122,11 @@ Yielded over 90% accuracy which is very good.
 
 ### Database Integration
 
-## ERD
+#### ERD
 
 ![ERD.png](https://github.com/CristinaCod/World_Happiness_Report/blob/41adcfafffb310ded45bf40f65348637d550af1b/Resources/ERDTable.png)
 
-## Plot
+#### Plot
 ![Scatterplot7.png](https://github.com/CristinaCod/World_Happiness_Report/blob/739ab55c7b9574612ad98125a27fed9433472ee0/UnsupervisedMLplots/Scatterplot7.png)
 
 From our findings Social Support is biggest contributing factors to the happiness score for both more populated and less populated countries. This is because the eigenvalues of Score and Social Support are the closest as seen in the PCA values. It is also concluded that populating does not affect the different factors of happiness because the factors closely related to the ladder score for both more populated and less populated countries are very similiar. 
