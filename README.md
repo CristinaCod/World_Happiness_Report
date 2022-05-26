@@ -144,7 +144,7 @@ From our findings Social Support is biggest contributing factors to the happines
 
 
 ## Presentation
-https://docs.google.com/presentation/d/1-BdfcxRAkmvJPGpVYI0r6Mw4PDE5yMYF05Ny2Vr53Ys/edit?usp=sharing 
+https://docs.google.com/presentation/d/1-BdfcxRAkmvJPGpVYI0r6Mw4PDE5yMYF05Ny2Vr53Ys/edit?usp=sharing
 
 ## Tableau Dashboard
 https://public.tableau.com/app/profile/chanise.smith/viz/WorldHappiness_16525904877140/HappinessDashboard
